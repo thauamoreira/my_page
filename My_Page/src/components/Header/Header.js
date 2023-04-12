@@ -18,10 +18,10 @@ export default function Header() {
           <Nav className="me-auto"></Nav>
           <Nav>
             <Link to="/" className="link">
-              Features
+             
             </Link>
             <Link className="link" eventKey={2} to="/">
-              About us
+              
             </Link>
           </Nav>
         </Navbar.Collapse>
